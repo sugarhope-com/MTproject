@@ -1,6 +1,5 @@
 # MTproject
-## MTproject 构思:   
-使用 墨屉 和 Projectify 搭配打造一个从 [日常规划&知识规划] 到 [渐进阅读&间隔复习] 的一站式Tiddlywiki开箱即用模板.  
+## MTproject 构思:使用 墨屉 和 Projectify 搭配打造一个从 [日常规划&知识规划] 到 [渐进阅读&间隔复习] 的一站式Tiddlywiki开箱即用模板.  
 ### 关键字: 制卡 挖空 规划 习惯 阅读 记忆 完成 GTD   
 ![MTproject](https://user-images.githubusercontent.com/105823680/179948876-0e3f0bc8-11cf-4052-ae63-ddb8635208eb.png)   
 模板详情:   
