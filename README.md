@@ -9,4 +9,5 @@ Github地址: https://github.com/sugarhope-com/MTproject/
 蓝奏云下载：https://sugarhope.lanzouw.com/b00vu1lfe 密码：wiki   
 123云盘下载: https://www.123pan.com/s/QYtA-yHOcv   
 ### 使用教程:   
-努力更新中,还需一点点时间.敬请期待   
+!! https://www.yuque.com/sugarhope/mtproject
+!!! 正在努力完善中,预计需要亿点点时间.
